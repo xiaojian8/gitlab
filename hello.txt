@@ -5,3 +5,4 @@ seconed hello from xiaojian2 first by xiaojian   this si four fix for hot-fiax
 这里是测试
 这里是第二次改动
 这里是第三次改动，本账号改
+这里是测试连通性
